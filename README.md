@@ -1,3 +1,5 @@
+## PROJECT REQUIREMENTS:
+
 You have been given a task to generate all valid combinations of n pairs of parentheses.
 Each combination must be a well-formed expression, meaning:
 
