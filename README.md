@@ -7,5 +7,5 @@ Each combination must be a well-formed expression, meaning:
 For example, given n = 3, the possible valid combinations of parentheses are:
 ["((()))", "(()())", "(())()", "()(())", "()()()"]
 
-Your goal is to implement a method that efficiently finds all valid well-formed parentheses
+The goal is to implement a method that efficiently finds all valid well-formed parentheses
 combinations using backtracking.
